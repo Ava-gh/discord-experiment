@@ -1,4 +1,4 @@
-# discord-experiment
+# Discord-experiment
 
 To access the experimental feature, first log in to your Discord account. Then, open the inspect element tool by pressing Ctrl + Shift + I on Google Chrome (or Command + Option + I on Mac).
 ## Browser Tutorial
