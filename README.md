@@ -3,7 +3,6 @@
 To access the experimental feature, first log in to your Discord account. Then, open the inspect element tool by pressing Ctrl + Shift + I on Google Chrome (or Command + Option + I on Mac).
 ## Browser Tutorial
 Open inspect element on any browser, click on the `'Console'` tab under the inspect element window, then copy the code below, and paste it in the console. However, prior to pasting, make sure you have the `'Allow Paste'` enabled because, in case you have been not allowed to paste the code in.
-## Mac
 
 ## Code
 
